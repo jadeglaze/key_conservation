@@ -66,7 +66,7 @@ This is one way to run your app — you can also build it directly from Android 
 - [ ] Check on different devices/screen sizes
   - [x] iPad Pro 11-inch M4
   - [ ] iPhone SE 
-- [ ] Add a splash of color
+- [x] Add a splash of color
 - [ ] Fix verticle stability of main board (it moves up/down when Play Again button is visible or not)
 - [x] Adjust relative sizes in portrait mode so more of historical game visible (smaller main grid)
 - [x] Fix buttons to be visible in landscape view
